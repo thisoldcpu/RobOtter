@@ -90,8 +90,3 @@ This is an open project. Take it somewhere.
 ## License
 
 Open source. Details in LICENSE.
-
----
-
-*AR-01 S&R Agent — Project Aquatic-Rodent*
-*Drawing series ARO1 — thisoldcpu*<img width="2560" height="1398" alt="Robot_Otter_Fore_Assembly" src="https://github.com/user-attachments/assets/20417ff3-742a-44f4-966d-24f57eeb54f3" />
